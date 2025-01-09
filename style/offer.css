@@ -1,0 +1,51 @@
+/* banner styles */
+*{
+    margin: 8px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.banner-party{
+color: white;
+text-align: center;
+font-size: 30px;
+padding: 40px;
+
+}
+.banner{
+    background-image: url('../images/Banner\ Image.png');
+    background-repeat: none;
+    width: 1320px;
+    margin: 0 auto;
+    height: 600px;
+    background-color: black;
+    justify-content: center;
+}
+/* text images */
+
+.text-primary{
+    color: red;
+    padding: 20px;
+}
+.cataghori{
+    color: black;
+}
+  
+.text-title{
+    color: #0000;
+    text-align: center;
+    padding: auto;
+}
+/* new-year-banner */
+.banner-images{
+
+}
+.new-year-banner{
+    background-image: url(../images/Vectorrr.png);
+    background-repeat: none;
+    width: 1300px;
+    height: 600px;
+
+}
+
