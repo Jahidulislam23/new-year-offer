@@ -39,13 +39,34 @@ padding: 40px;
 }
 /* new-year-banner */
 .banner-images{
+    display: flex;
 
 }
-.new-year-banner{
+ .new-year-banner{
     background-image: url(../images/Vectorrr.png);
     background-repeat: none;
-    width: 1300px;
+     width: 1300px;
     height: 600px;
+} 
+.text-colur{
+    color: black;
+    padding: 30px;
+}
+.background-color{
+    display: contents;
+   
+}
+.btn-primary{
+    background-color: #FD6E0A;
+    font-size: bold;
+    color: white;
+    padding: 18px 35px;
+}
+.background{
+    background-color: blanchedalmond;
+    padding: 50px 25px;
+    width: 800px;
+    height: 400px;
 
 }
 
